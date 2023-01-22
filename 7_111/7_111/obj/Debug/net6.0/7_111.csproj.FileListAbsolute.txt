@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\7_111\7_111\bin\Debug\net6.0\7_111.exe
+C:\Users\djang\source\repos\7_111\7_111\bin\Debug\net6.0\7_111.deps.json
+C:\Users\djang\source\repos\7_111\7_111\bin\Debug\net6.0\7_111.runtimeconfig.json
+C:\Users\djang\source\repos\7_111\7_111\bin\Debug\net6.0\7_111.dll
+C:\Users\djang\source\repos\7_111\7_111\bin\Debug\net6.0\7_111.pdb
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.AssemblyInfo.cs
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.dll
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\refint\7_111.dll
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.pdb
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\7_111.genruntimeconfig.cache
+C:\Users\djang\source\repos\7_111\7_111\obj\Debug\net6.0\ref\7_111.dll
