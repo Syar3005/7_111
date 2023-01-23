@@ -1,29 +1,29 @@
-﻿int[] kar = new int[255];
-int[] moto = new int[255];
-double b = 0;
-double a = 0;
-int n, i;
+int[] moto = {};
+double carSum = 0;
+double motoSum = 0;
+int transportCount;
 
 Console.WriteLine("Введите количество Машин и Мотоциклов: ");
-n = Convert.ToInt32(Console.ReadLine());
-for (i = 1; i <= n; i++)
+transportCount = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 1; i <= transportCount; i++)
 {
     Console.WriteLine("Введите стоимость " + i + "й" + " машины: ");
-    kar[i] = Convert.ToInt32(Console.ReadLine());
+    car[i] = Convert.ToInt32(Console.ReadLine());
 }
-for (i = 1; i <= n; i++)
+for (int i = 1; i <= transportCount; i++)
 {
     Console.WriteLine("Введите стоимость " + i + "" + " мотоцикла: ");
     moto[i] = Convert.ToInt32(Console.ReadLine());
 }
-for (i = 1; i < n; i++)
+for (int i = 1; i < transportCount; i++)
 {
-    a = a + kar[i];
-    b = b + moto[i];
+    carSum = carSum + car[i];
+    motoSum = motoSum + moto[i];
 }
-a = a / n;
-b = b / n;
-if ((a / 3) > b)
+carSum = carSum / transportCount;
+motoSum = motoSum / transportCount;
+if ((carSum / 3) > motoSum)
 {
     Console.WriteLine("Верно!");
 }
