@@ -1,3 +1,4 @@
+int[] car = {};
 int[] moto = {};
 double carSum = 0;
 double motoSum = 0;
